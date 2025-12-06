@@ -18,3 +18,8 @@ git init
 ```
 gh auth login
 ```
+4. GitHub cheatset
+Listing all branches :
+```
+git branch -a
+```
